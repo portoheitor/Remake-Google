@@ -1,4 +1,4 @@
-# Projeto_0 do curso CS50 WEB! 💻🌐
+# Project_0 do curso CS50 WEB! 💻🌐
 
 ## Requisitos do Projeto 📋
 
