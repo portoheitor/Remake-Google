@@ -47,7 +47,8 @@
 - O **CSS** que você escreve deve se assemelhar à **estética do Google**.
 
 
-![GIF Animado](https://drive.google.com/uc?export=view&id=1lS_pzOlZXR4V6MB20LVI4z5Kgpu-A77G)
+![GIF Animado](https://drive.google.com/uc?export=view&id=1uUmhUJPEE-D8iuaHURWATUlC0alawpX6)
+
 
 
   
